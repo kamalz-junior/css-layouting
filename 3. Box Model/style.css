@@ -1,0 +1,126 @@
+/* awal latihan */
+body {
+    background-color: rgb(0, 238, 226);
+}
+
+p.pertama {
+    border-top-style: dashed;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: aqua;
+    background-color: teal;
+
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 50px;
+}
+
+p.ketiga {
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: aqua;
+    background-color: teal;
+
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 50px;
+
+}
+
+p.kedua {
+    border-top-style: outset;
+    border-bottom-style: outset;
+    border-left-style: inset;
+    border-right-style: inset;
+    border-color: aqua;
+    background-color: teal;
+
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 700px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 25px;
+}
+
+p.keempat {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-color: aqua;
+    background-color: teal;
+
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 700px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 25px;
+}
+
+/* akhir latihan */
+
+
+/* awal findex */
+h1 {
+    font-family: arial;
+}
+
+p.satu {
+    border-style: dotted;
+}
+
+p.dua {
+    border-style: dashed;
+    margin: 50px 50px;
+    padding: 20px;
+}
+
+p.tiga {
+    border-style: solid;
+    border-color: aqua;
+    border-width: medium;
+    margin: 50px;
+    background-color: teal;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+}
+
+p.empat {
+    border-style: double;
+
+}
+
+p.lima {
+    border-style: groove;
+}
+
+p.enam {
+    border-style: ridge inset outset solid;
+}
+
+p.tujuh {
+    border-style: inset ridge solid unset;
+}
+
+p.delapan {
+    border-top-style: solid;
+    border-left-style: dotted;
+    border-left-style: groove;
+    border-bottom-style: outset;
+}
+
+/* akhir findex */

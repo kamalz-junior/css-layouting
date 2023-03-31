@@ -1,0 +1,24 @@
+.satu{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    overflow: scroll;
+}
+
+.dua{
+    width: 400px;
+    height: 200px;
+    background-color: lightgreen;
+    overflow: scroll;
+}
+
+.wadah{
+    width: 600px;
+    height: 1000px;
+    background-color: rgb(235, 243, 250);
+}
+
+.wadah h1{
+    font-family: arial;
+    color: white;
+}
